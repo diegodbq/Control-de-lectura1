@@ -1,0 +1,43 @@
+Informe de control de lectura 1
+
+Fecha: 22 de Noviembre de 2024
+
+Archivos subidos:
+
+Archivo 1. Codigo creado en Netbeans(Java) "hola mundo"
+Archivo 2. Informe realizado en bloc de notas
+
+Proceso:
+
+1.Para relizar la actividad primero descargamos Netbeans
+2.Creamos una cuenta en Github
+3.Descargamos Git
+4.En el programa Netbeans creamos un proyecto nuevo en Java con el nombre "hola mundo"
+ donde realizamos una simple linea de codigo que escribiera la palabra "hola mundo"
+5.En github creamos un nuevo repositorio con el nombre de control de lectura 1.
+6.Para subir el archivo de Netbeans a Github tuvimos que hacer el proceso de crear una nueva version gif
+en la opcion superior de team 
+7. Se despliega una lista de opciones donde le damos click versioning donde se desplegara una lista de
+opciones donde le daremos click en Initialize Git Repository
+8.Una vez realizado el versionamiento, dandole click derecho en el proyecto en netbeans se despliega una lista
+de opciones donde buscamos git
+9. Le damos click en git donde se desplegara otra lista de opciones donde le daremos click a add, añadiendo el proyecto
+10.Nuevamente le damos click derecho en el proyecto todo esto en Netbeans
+11. se despliega nuevamente la lista de opciones donde le daremos click en git, adicional se desplegra una nueva lista
+de opciones donde le daremos click a commit
+12. REpetimos el proceso dandole click derecho a en el proyecto, nuevamente en git pero ahora damos click en remote
+dandole click en push
+13. al darle click en push se desplegara una lista donde añadiremos la ruta por la que subira el proyecto
+dejandonos subir el proyecto de hola mundo
+14. Para subir el Informe lo hariamos por git dandole click derecho en los archivos donde se desplegara una lista
+de opciones donde le daremos click a git bash here dandonos la venta de ruta para subir el archivo
+15.Donde realizaremos todos los pasos que nos da Github subiendo el Informe exitosamente
+
+Resultados
+Los archivos se subieron exitosamente aunque subir de netbeans a Github si es un poco complicado
+recomendaria ver tutoriales de youtube para poder realizar la subida del archivo con exito.
+En cuanto a subirlo por medio de Git es mucho mas facil ya que solo toca seguir los pasos que da Github.
+
+Conclusion
+La subida de los archivos a Github una vez tenienendo los conocimientos y viendo varios tutoriales de 
+Youtube se vuelve muy facil.
